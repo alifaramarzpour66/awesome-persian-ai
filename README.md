@@ -46,3 +46,33 @@
 - Pull Request بزن!
 
 ساخته شده با عشق در ایران 🇮🇷 | به‌روز شده: دسامبر ۲۰۲۵
+## مدل‌های زبانی بزرگ (LLMs)
+- [Hezar AI](https://github.com/hezarai/hezar) - لایبرری همه‌کاره AI فارسی با مدل‌های آماده برای NLP، Vision و Speech (بهترین و فعال‌ترین پروژه ۲۰۲۵!)
+- [ParsBERT](https://huggingface.co/HooshvareLab/bert-fa-base-uncased) - نسخه فارسی BERT، کلاسیک اما هنوز پراستفاده
+- [PersianMind](https://huggingface.co/universitytehran/PersianMind-v1.0) - مدل فارسی بر پایه LLaMA
+- [Maral-7B](https://huggingface.co/MaralGPT/Maral-7B-alpha-1) - مدل دو زبانه (فارسی-انگلیسی) ۷ میلیارد پارامتر بر پایه Mistral
+
+## لایبرری‌ها و ابزارها
+- [Hezar AI](https://github.com/hezarai/hezar) - همه چیز در یک جا: NLP، Speech، Vision
+- [DadmaTools](https://github.com/Dadmatech/DadmaTools) - مجموعه کامل ابزارهای NLP فارسی (توکنایزر، NER، POS و...)
+- [Hazm](https://github.com/sobhe/hazm) - ابزار کلاسیک و سبک NLP فارسی
+
+## دیتاست‌ها
+- [Bijankhan Corpus](https://github.com/mhbashari/awesome-persian-nlp-ir#datasets) - یکی از بزرگ‌ترین کورپوس‌های تگ‌شده فارسی
+- [ArmanPersoNERCorpus](https://github.com/Dadmatech/DadmaTools) - دیتاست NER فارسی
+- [Persian Wikipedia Dump](https://dumps.wikimedia.org/fawiki/) - تمام متن ویکی‌پدیای فارسی برای پره‌ترنینگ
+- [Common Voice Persian](https://commonvoice.mozilla.org/fa/datasets) - دیتاست صوتی فارسی برای STT/TTS
+
+## پروژه‌ها و اپلیکیشن‌ها
+- [grokfa](https://github.com/alifaramarzpour66/grokfa) - پرامپت‌های آماده فارسی برای Grok (ساخته خودم! 😎)
+- [Persian TTS Coqui](https://github.com/karim23657/Persian-tts-coqui) - مدل‌های TTS فارسی با Coqui
+- [Persian Speech Recognition](https://github.com/shenasa-ai/speech2text) - سیستم STT فارسی پیشرفته
+- [ParsBench](https://github.com/ParsBench/ParsBench) - بنچمارک برای ارزیابی مدل‌های فارسی
+
+## مقاله‌ها و بنچمارک‌ها
+- [ParsBench](https://github.com/ParsBench/ParsBench) - ابزار بنچمارکینگ مدل‌های زبانی فارسی
+- [Persian NLP Benchmark](https://github.com/Mofid-AI/persian-nlp-benchmark) - مقایسه مدل‌ها روی تسک‌های مختلف
+
+## سایر منابع
+- [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) - لیست قدیمی‌تر اما عالی (پیشنهاد می‌کنم لینک بدی به عنوان منبع الهام!)
+- [Hezar Hub on Hugging Face](https://huggingface.co/hezarai) - مدل‌های آماده دانلود
