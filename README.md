@@ -67,6 +67,7 @@
 - [grokfa](https://github.com/alifaramarzpour66/grokfa) - پرامپت‌های آماده فارسی برای Grok (ساخته خودم! 😎)
 - [Persian TTS Coqui](https://github.com/karim23657/Persian-tts-coqui) - مدل‌های TTS فارسی با Coqui
 - [Persian Speech Recognition](https://github.com/shenasa-ai/speech2text) - سیستم STT فارسی پیشرفته
+- [گفتار](https://goftar.cloud/speaker-separation) - سرویس وب فارسی برای تبدیل فایل صوتی و ویدیویی به متن زمان‌دار با انتخاب مدل و تفکیک اختیاری گوینده
 - [ParsBench](https://github.com/ParsBench/ParsBench) - بنچمارک برای ارزیابی مدل‌های فارسی
 
 ## مقاله‌ها و بنچمارک‌ها
